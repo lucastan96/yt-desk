@@ -11,7 +11,7 @@
 
 # yt-desk
 
-YTDesk is a simple Electron app to check Youtube subscriber count using channel ids. This is my first attempt with Electron to get an idea of how it works.
+YTDesk is a simple Electron app built with Angular to check Youtube subscriber count using channel ids. This is my first attempt with Electron to get an idea of how it works.
 
 # Introduction
 
